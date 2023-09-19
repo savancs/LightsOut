@@ -1,0 +1,4 @@
+savannah smith
+
+1. public void recolor() is the method that recolors based on if the button is clicked.
+To get a handle on the grid layout is grid = findViewById(R.id.light_grid);

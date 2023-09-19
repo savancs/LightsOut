@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LightsOut</string>
+    <string name="app_name">Lights - Savannah</string>
+    <string name="counterET"></string>
 </resources>
